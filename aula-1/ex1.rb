@@ -9,6 +9,7 @@ def intParaString(anosImportantes)
     for anos in anosImportantes
         # a posição no array recebe o valor anterior, porém com o tipo string
         anos = anos.to_s
+        puts anos.class
     end
 end
 
