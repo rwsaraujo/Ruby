@@ -1,2 +1,1 @@
-# PS IN Junior Ruby
-
+# Repository for practice in the Ruby language.
